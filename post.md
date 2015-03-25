@@ -1,3 +1,4 @@
+<meta name="twitter:widgets:csp" content="on">
 ## Last Year I Wish I Could Be At ng-conf 
 
 It All Started Last Year...
